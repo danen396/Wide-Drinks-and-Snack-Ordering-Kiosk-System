@@ -1,0 +1,8 @@
+2##Pau##123123##1.00##27/10/17 01:06:07##OrderInProgress
+2##Pau##123123##1.00##27/10/17 01:28:21##OrderInProgress
+3##Pau##123123##1.00##27/10/17 01:45:21##OrderInProgress
+4##Coffee, Cream, Regular Size##123123##1.60##27/10/17 01:45:25##OrderInProgress
+5##CurryPuff##123123##1.00##27/10/17 01:47:24##OrderInProgress
+6##Coffee, Sprinkle, Regular Size##123123##1.60##27/10/17 01:47:25##OrderInProgress
+7##Pau, Lettuce, Onion, Tuna, Cheese##123123##2.40##27/10/17 02:16:45##OrderInProgress
+8##Coffee, Cream, Regular Ice, More Milk, More Sugar, Regular Size##123123##2.40##27/10/17 02:16:47##OrderInProgress
