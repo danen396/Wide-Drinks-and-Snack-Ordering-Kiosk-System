@@ -2,4 +2,4 @@
 Kiosk System using design Patterns 
 
 # Get Started
-Use Visual Studio and launch this project
+Use netbeans and launch this project
