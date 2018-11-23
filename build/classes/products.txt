@@ -1,0 +1,5 @@
+Coffee##Available
+CurryPuff##Available
+Pau##Available
+Kuih##Available
+Sandwich##Unavailable
